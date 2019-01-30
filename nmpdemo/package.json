@@ -1,6 +1,6 @@
 {
   "name": "npm09-helloworld-learninghub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a hello world application in npm world",
   "main": "index.js",
   "repository": {
